@@ -6,7 +6,7 @@
 
 ## 🔨 About
 - This is a simple game that continues endlessly until you lose.
-- You play as a human with an unexplainable hatred for innocent moles
+- You play as a carpenter with an unexplainable hatred for innocent moles
 - Your goal is to whack as many moles as possible!
 
 ## 👟 Getting Started
